@@ -1,0 +1,11 @@
+{
+  "name": "my-llm-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@langchain/groq": "^0.2.4",
+    "dotenv": "^17.2.3"
+  }
+}
